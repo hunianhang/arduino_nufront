@@ -4,7 +4,7 @@
 # For more info:
 # https://github.com/arduino/Arduino/wiki/Arduino-IDE-1.5---3rd-party-Hardware-specification
 
-name=MediaTek ARM7 EJ-S (32-bits) Boards
+name=Nufront tl7788 (32-bits) Boards
 version=1.5.7
 
 # MTK compile variables
