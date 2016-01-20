@@ -1,5 +1,5 @@
 # LinkIt ONE board definition
-linkit_one.name=LinkIt ONE
+linkit_one.name=Nufront TL7788 Kit
 linkit_one.vid.0=0x0E8D
 linkit_one.pid.0=0x0023
 linkit_one.upload.tool=linkit_tools
